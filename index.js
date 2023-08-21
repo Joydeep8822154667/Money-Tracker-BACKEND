@@ -31,4 +31,4 @@ app.get('/api/transactions',async(req,res)=>{
 })
 // console.log(PORT);
 
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 4040);
